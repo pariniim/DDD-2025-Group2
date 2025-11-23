@@ -2,6 +2,7 @@
 Oleksandra Drapushko, Andrii Ioffe, Maria Mititelu, Isabel Parini
 
 ## Human Perception on Alien Related Content
+
 ![Final Visualization](https://github.com/pariniim/DDD-2025-Group2/blob/f33db89216b81b8b5275f6140e4a7015b7df7fc3/Final_Visualization.jpg)
 
 ### Data Collection 
