@@ -2,7 +2,7 @@
 Oleksandra Drapushko, Andrii Ioffe, Maria Mititelu, Isabel Parini
 
 ## Human Perception on Alien Related Content
-![Final Visualization](Final_Visualization.jpg")
+![Final Visualization](Final_Visualization.jpg)
 
 ### Data Collection 
 - Where did you get your data from?
