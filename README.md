@@ -4,7 +4,7 @@ Oleksandra Drapushko, Andrii Ioffe, Maria Mititelu, Isabel Parini
 ## Human Perception on Alien Related Content
 ![Word Cloud from Comments](./DATAALIENS/analysis_outputs/comment_wordcloud.png "Word Cloud from Comments")
 
-![Final Visualization 1](./Final_Visualization_05.jpg "Partial Visualization")
+[Final Visualization](https://www.figma.com/proto/LZt2SkJYFBVidttxLCPHOj/Making-Sense-of-Data-Project?page-id=1%3A2&node-id=216-1035&viewport=211%2C63%2C0.13&t=thzutWo1kcdizn9F-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=216%3A1035)
 
 ### Abstract
 Our project focuses on comments for videos about aliens published on TikTok from September 15, 2020 to November 21, 2025, in order to understand how extraterrestrials and their sightings are perceived by users of this social medium.
