@@ -1,0 +1,154 @@
+{
+  "n_comments": 4000,
+  "n_videos": 545,
+  "avg_comment_sentiment": 0.102755425,
+  "avg_video_sentiment": -0.03244201834862385,
+  "top_hashtags": [
+    {
+      "hashtag": "#ufo",
+      "count": 413
+    },
+    {
+      "hashtag": "#alien",
+      "count": 199
+    },
+    {
+      "hashtag": "#aliens",
+      "count": 192
+    },
+    {
+      "hashtag": "#uap",
+      "count": 155
+    },
+    {
+      "hashtag": "#fyp",
+      "count": 141
+    },
+    {
+      "hashtag": "#ufosighting",
+      "count": 121
+    },
+    {
+      "hashtag": "#aliensighting",
+      "count": 89
+    },
+    {
+      "hashtag": "#ufos",
+      "count": 87
+    },
+    {
+      "hashtag": "#ovni",
+      "count": 66
+    },
+    {
+      "hashtag": "#viral",
+      "count": 46
+    },
+    {
+      "hashtag": "#uaps",
+      "count": 39
+    },
+    {
+      "hashtag": "#3iatlas",
+      "count": 37
+    },
+    {
+      "hashtag": "#foryou",
+      "count": 35
+    },
+    {
+      "hashtag": "#ufo\u30ad\u30e3\u30c3\u30c1\u30e3\u30fc",
+      "count": 33
+    },
+    {
+      "hashtag": "#area51",
+      "count": 30
+    }
+  ],
+  "hashtag_metrics": [
+    {
+      "hashtag_list": "#ufo",
+      "avg_play": 2516304.200968523,
+      "avg_sentiment": -0.03146004842615012,
+      "uses": 413
+    },
+    {
+      "hashtag_list": "#alien",
+      "avg_play": 2434117.361809045,
+      "avg_sentiment": -0.06991356783919599,
+      "uses": 199
+    },
+    {
+      "hashtag_list": "#aliens",
+      "avg_play": 2719915.2708333335,
+      "avg_sentiment": -0.028870312500000005,
+      "uses": 192
+    },
+    {
+      "hashtag_list": "#uap",
+      "avg_play": 2788476.5548387095,
+      "avg_sentiment": -0.009243870967741936,
+      "uses": 155
+    },
+    {
+      "hashtag_list": "#fyp",
+      "avg_play": 3334173.7517730496,
+      "avg_sentiment": -0.09565248226950354,
+      "uses": 141
+    },
+    {
+      "hashtag_list": "#ufosighting",
+      "avg_play": 2162146.1983471075,
+      "avg_sentiment": 0.04532314049586777,
+      "uses": 121
+    },
+    {
+      "hashtag_list": "#aliensighting",
+      "avg_play": 1170385.7191011235,
+      "avg_sentiment": -0.03167078651685393,
+      "uses": 89
+    },
+    {
+      "hashtag_list": "#ufos",
+      "avg_play": 1320047.3103448276,
+      "avg_sentiment": -0.035526436781609196,
+      "uses": 87
+    },
+    {
+      "hashtag_list": "#ovni",
+      "avg_play": 1860582.1818181819,
+      "avg_sentiment": -0.06696666666666667,
+      "uses": 66
+    },
+    {
+      "hashtag_list": "#viral",
+      "avg_play": 4790335.739130435,
+      "avg_sentiment": -0.08583913043478261,
+      "uses": 46
+    }
+  ],
+  "strongest_engagement_corr": [
+    {
+      "pair": "playCount vs commentCount",
+      "corr": 0.9185437248243414
+    },
+    {
+      "pair": "shareCount vs commentCount",
+      "corr": 0.8337759966103977
+    },
+    {
+      "pair": "diggCount vs commentCount",
+      "corr": 0.8050350489289583
+    }
+  ],
+  "comment_sentiment_correlations": {
+    "sentiment_vs_diggs": -0.0133920347929864,
+    "sentiment_vs_reply_total": -0.037627870879416526
+  },
+  "video_sentiment_correlations": {
+    "caption_sentiment_vs_play": -0.06612073634178793,
+    "caption_sentiment_vs_comment": -0.08103534484362072,
+    "comment_sentiment_vs_play": -0.17066968825449944,
+    "comment_sentiment_vs_share": -0.20406720912651458
+  }
+}

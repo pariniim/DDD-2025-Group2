@@ -5,26 +5,13 @@ Oleksandra Drapushko, Andrii Ioffe, Maria Mititelu, Isabel Parini
 
 ![Final Visualization 1](./Final_Visualization_05.jpg "Partial Visualization")
 
-![Final Visualization 2](./Final_Visualization_2_05.png "Final Visualization")
 
 ### Abstract
-Our project focuses on a sentiment analysis about how media about aliens - in our case videos on TikTok - are perceived by users. 
+Our project focuses on comments for videos about aliens published on TikTok from September 15, 2020 to November 21, 2025, in order to understand how extraterrestrials and their sightings are perceived by users of this social medium.
 
-In order to do so, we scraped data using Apify (https://apify.com/) and collected comments on videos about extraterrestrials published on Tiktok, focusing on a time range going from September 15, 2020 to November 21, 2025. 
-
-Our data presents the most frequent words used in the comments for the 10 most popular videos of our original dataseas as a word cloud (one word cloud per video), as well as the result of a sentiment analysis which shows how many comments are positive, negative, or neutral in percentages. 
+Data was scraped with an APIFY tool. The sentiment analysis to evaluate whether a comment was positive, negative, or neutral was also done using an APIFY tool. 
 
 ### Protocol Diagram 
-
-![Protocol Diagram](./protocol_diagram.jpg "Protocolo Diagram")
-
-### What topic does the project address?
-We chose to explore the perception of aliens by focusing on comments about videos on TikTok related to extraterrestrials. 
-
-### What data have you considered?
-Comments on TikTok videos related to aliens published between September 15, 2020 and November 21, 2025.
-
-### Dataset 
 ```mermaid
 flowchart TB
     A["Topic:<br>Alien sightings"] --> B["How people react to the content about aliens on social media(TikTok)"] & n10["What are the main trends in the alien content on tiktok"]
@@ -49,8 +36,19 @@ flowchart TB
     D@{ shape: cyl}
     n2@{ shape: cyl}
 ```
+
+### What topic does the project address?
+We chose to explore the perception of aliens by focusing on comments about videos on TikTok related to extraterrestrials. 
+
+### What data have you considered?
+* Comments on TikTok videos related to aliens published between September 15, 2020 and November 21, 2025.
+
+* An automated sentiment analysis was then used to evaluate the comments to understand wether they were positive, negative, or neutral. 
+
+### Dataset 
+
 ### What does the visualisation show?
-* The 10 most relevant videos; 
+* The 10 most relevant videos in terms of engagement; 
 * Word clouds in UFO shapes that illustrate the most recurring words in the comments for each video;
 * Results of the sentiment analyis in percentages that show how many comments were either positive, neutral, or negative; 
 * The timeline shows when the videos were posted;
