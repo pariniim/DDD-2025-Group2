@@ -25,6 +25,7 @@ We chose to explore the perception of aliens by focusing on comments about video
 Comments on TikTok videos related to aliens published between September 15, 2020 and November 21, 2025.
 
 ### Dataset 
+```mermaid
 flowchart TB
     A["Topic:<br>Alien sightings"] --> B["How people react to the content about aliens on social media(TikTok)"] & n10["What are the main trends in the alien content on tiktok"]
     B --> C{"Collect data"}
@@ -47,7 +48,7 @@ flowchart TB
     A@{ shape: rect}
     D@{ shape: cyl}
     n2@{ shape: cyl}
-
+```
 ### What does the visualisation show?
 * The 10 most relevant videos; 
 * Word clouds in UFO shapes that illustrate the most recurring words in the comments for each video;
