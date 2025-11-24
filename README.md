@@ -11,6 +11,8 @@ Our project focuses on comments for videos about aliens published on TikTok from
 
 Data was scraped with an APIFY tool. The sentiment analysis to evaluate whether a comment was positive, negative, or neutral was also done using an APIFY tool. 
 
+Research question: How are alien sightings perceived and presented on the internet and social media, especially on TikTok?
+
 ### Protocol Diagram 
 ```mermaid
 flowchart TB
