@@ -51,6 +51,6 @@ We investigated how aliens are perceived across comments to some videos publishe
 ### What does the visualisation show?
 * The 10 most relevant videos in terms of engagement; 
 * Word clouds in UFO shapes that illustrate the most recurring words in the comments for each video;
-* Results of the sentiment analyis in percentages that show how many comments were either positive, neutral, or negative; 
-* The timeline shows when the videos were posted;
-* The spikes indicate the quantity of posts in a certain time period and shows an increase after the first half of the current year (2025).
+* Results of the sentiment analyis showing whether the comments tended to be positive, neutral, or negative; 
+* The timeline from 2020 to 2025 shows when the selected videos were posted;
+* The spikes indicate the quantity of posts in a certain time period and show an increase after the first half of the current year (2025).
